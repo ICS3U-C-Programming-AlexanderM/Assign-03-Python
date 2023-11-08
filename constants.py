@@ -1,0 +1,5 @@
+MIN_HEIGHT = float(1.3)
+MAX_HEIGHT = float(2.0)
+MAX_WEIGHT = float(300)
+MIN_WEIGHT = float(0)
+OBESE = float(400)
